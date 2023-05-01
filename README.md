@@ -1,5 +1,7 @@
 # leafdisease-recognition
 
+(download the dataset from https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
 The world's population is growing, and as such, the demand for food is increasing. Agriculture is one of the most critical sectors in ensuring food security. However, crop losses due to diseases pose a significant threat to global food production. Early identification of diseases can help farmers and plant pathologists take necessary measures to minimize crop losses.
 
 The project "Leaf Disease Recognition " aims to develop a machine learning model to identify different diseases affecting plant leaves. The model utilizes the power of convolutional neural networks (CNN), a deep learning algorithm that can analyze and classify images with remarkable accuracy. TensorFlow, an open-source software library developed by Google, is used to build and train the CNN.

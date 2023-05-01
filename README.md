@@ -1,6 +1,6 @@
 # leafdisease-recognition
 
-(download the dataset from https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+(download the dataset from https://www.kaggle.com/datasets/arjuntejaswi/plant-village )
 
 The world's population is growing, and as such, the demand for food is increasing. Agriculture is one of the most critical sectors in ensuring food security. However, crop losses due to diseases pose a significant threat to global food production. Early identification of diseases can help farmers and plant pathologists take necessary measures to minimize crop losses.
 

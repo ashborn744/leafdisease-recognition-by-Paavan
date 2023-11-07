@@ -1,4 +1,4 @@
-# leafdisease-recognition
+# leafdisease-recognition By Paavan jaitly
 
 (download the dataset from https://www.kaggle.com/datasets/arjuntejaswi/plant-village )
 
